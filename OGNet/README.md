@@ -17,7 +17,7 @@ The origin code was written by [Zaheer](https://github.com/xaggi/OGNet). We made
 - Execute Train.py
 
 
-- You can directly run the test.py by downloading the pre-trained model
+You can directly run the test.py by downloading the pre-trained model
 - Download trained generator and discriminator models from [here](https://drive.google.com/drive/folders/16QjOt0Y1UoD4pYafKfJKM6XH37m9pwLx?usp=sharing) and place inside the directory ./models/
 
 - run test.py
