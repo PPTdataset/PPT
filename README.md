@@ -9,3 +9,8 @@ For the specific operation of the evaluation method code, please refer to the re
 
 ![img1](https://github.com/PPTdataset/PPT/edit/master/imgs/eva.pdf)
 ![img2](https://github.com/PPTdataset/PPT/edit/master/imgs/eva2.pdf)
+
+## References
+<span id="OG">[1] Zaheer, Muhammad Zaigham, et al. "Old is gold: Redefining the adversarially learned one-class classifier training paradigm." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020.  </span>  
+<span id="Cycle">[2] Zhu, Jun-Yan, et al. "Unpaired image-to-image translation using cycle-consistent adversarial networks." Proceedings of the IEEE international conference on computer vision. 2017.  </span>  
+<span id="KD">[3] Salehi, Mohammadreza, et al. "Multiresolution knowledge distillation for anomaly detection." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2021.  </span>  
