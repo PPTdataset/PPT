@@ -1,0 +1,41 @@
+------------ Options -------------
+abnormal_class: car
+batchsize: 64
+beta1: 0.5
+dataroot: 
+dataset: PPT
+device: gpu
+display: False
+display_id: 0
+display_port: 8097
+display_server: http://localhost
+droplast: True
+extralayers: 0
+gpu_ids: [0]
+isTrain: True
+isize: 128
+iter: 0
+load_weights: False
+lr: 0.0002
+manualseed: -1
+metric: auc
+model: ganomaly
+name: ganomaly/PPT
+nc: 3
+ndf: 64
+ngf: 64
+ngpu: 1
+niter: 100
+nz: 100
+outf: ./output
+phase: train
+print_freq: 100
+proportion: 0.1
+resume: 
+save_image_freq: 100
+save_test_images: False
+w_adv: 5
+w_con: 50
+w_enc: 5
+workers: 8
+-------------- End ----------------
