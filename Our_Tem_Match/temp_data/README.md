@@ -1,0 +1,1 @@
+This is used to place some image data generated during the training process to facilitate the observation of the training situation.
