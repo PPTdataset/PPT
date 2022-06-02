@@ -1,4 +1,4 @@
-# CycleGAN and pix2pix in PyTorch
+# CycleGAN
 
 We provide PyTorch implementations for both unpaired and paired image-to-image translation.
 
