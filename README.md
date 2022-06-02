@@ -6,13 +6,13 @@ Visual anomaly detection has been an active topic in industrial applications. In
 <div align=center><img src="https://github.com/PPTdataset/PPT/blob/master/imgs/eva.jpg" width="800"></div>
 
 ## Description
-We share the specific code implementation of the evaluated methods. This repository documents the code for these evaluation methods for the convenience of the community to reproduce. If you want to reproduce our proposed template matching anomaly detection method, please check the contents of the `Our_Tem_Match` folder.
+We share the specific code implementation of the evaluated methods. This repository documents the code for these evaluation methods for the convenience of the community to reproduce. 
 
-For other evaluated methods, we directly use the source code given in the article. Specifically, we make some minor adjustments and choose the best hyperparameters to achieve the goal of anomaly detection in our PPT dataset. The principle is not adding additional tricks or modifying the network structure if possible.
+If you want to reproduce our proposed template matching anomaly detection method only, please check the contents of the `Our_Tem_Match` folder.
 
-The [dataset](https://drive.google.com/drive/folders/1GKFCRwqyEC8j5c8mjWWjk_Se5c6lUNvn) image and Template-Match method pretrained [model](https://drive.google.com/drive/folders/16QjOt0Y1UoD4pYafKfJKM6XH37m9pwLx) can be downloaded by clicking the link.
+For other evaluated methods, we directly use the source code of these methods and make some minor adjustments to achieve better results in our PPT dataset. The principle is not adding additional tricks or modifying the network structure if possible.
 
-For the specific operation of the evaluation method code, please refer to the readme in the corresponding folder.
+If you want to reproduce these methods on our dataset, please refer to the readme in the corresponding folder.
 
 ## References
 <span id="OG">[1] Zaheer, Muhammad Zaigham, et al. "Old is gold: Redefining the adversarially learned one-class classifier training paradigm." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020.  </span>  
