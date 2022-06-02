@@ -1,5 +1,12 @@
-# PPT
-We share the specific code implementation of the following method. For some of the latest methods, such as KD, we directly use the source code given in the article. For some of the more classic Baseline methods, such as AutoEncoder, we implemented it ourselves.
+# PPT: ANOMALY DETECTION DATASET OF PRINTED PRODUCTS WITH TEMPLATES
+<div align=center><img src="https://github.com/PPTdataset/PPT/blob/master/imgs/eva.jpg" width="800"></div>
+We share the specific code implementation of the evaluated methods. This repository documents the code for these evaluation methods for the convenience of the community to reproduce. If you want to reproduce our proposed template matching anomaly detection method, please check the contents of the 'Ours' folder.
+
+For some of the latest evaluated methods, we directly use the source code given in the article.
+Specifically, we make some minor adjustments and choose the
+best hyperparameters to achieve the goal of anomaly detection
+in our PPT dataset. The principle is not adding additional
+tricks or modifying the network structure if possible.
 
 In code implementation, we make some minor adjustments and choose the best hyperparameters to achieve the goal of anomaly detection in our PPT dataset. The principle is not adding additional tricks or modifying the network structure if possible.
 
@@ -8,8 +15,6 @@ The [dataset](https://drive.google.com/drive/folders/1GKFCRwqyEC8j5c8mjWWjk_Se5c
 <div align=center><img src="https://github.com/PPTdataset/PPT/blob/master/imgs/abstract.jpg" width="600"></div>
 
 For the specific operation of the evaluation method code, please refer to the readme in the corresponding folder.
-
-<div align=center><img src="https://github.com/PPTdataset/PPT/blob/master/imgs/eva.jpg" width="800"></div>
 
 ## References
 <span id="OG">[1] Zaheer, Muhammad Zaigham, et al. "Old is gold: Redefining the adversarially learned one-class classifier training paradigm." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020.  </span>  
